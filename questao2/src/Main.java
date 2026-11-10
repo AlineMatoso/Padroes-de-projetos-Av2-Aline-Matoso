@@ -5,7 +5,7 @@ public class Main {
         System.out.println("TARIFA DE ESTACIONAMENTO\n");
         
         int tempoPermanencia = 140; // 2h20min
-        // int tempoPermanencia = 120; // 30 min pra ver se a gratuidade da certo
+        //int tempoPermanencia = 120; // 30 min pra ver se a gratuidade da certo
         System.out.println("Tempo de permanência: " + tempoPermanencia + " minutos\n");
         
         // Perfil Rotativo (140 min = 3 horas iniciadas -> 3 * 10 = 30)
